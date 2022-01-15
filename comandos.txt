@@ -1,0 +1,25 @@
+git config --global user.name “Nombre de usuario”
+git config --global user.email email@mail.com
+git init
+git clone 
+git add -all
+git commit -m "aqui pon un comando"
+git push origin main
+git add -all
+git commit -m "aqui pon un comando"
+git push origin main
+dic genom["keys":]
+dic genom["keys": ]
+dic genom["keys":"values"]
+Saccharomyces cerevisiae ( levadura unicelular en ciernes )	12 millones	6,000
+tricomonas vaginalis	160 millones	60.000
+dic_genoma=["Saccharomyces cerevisiae ( levadura unicelular en ciernes )	": "12 millones"	,6000", "tricomonas vaginalis": "160 millones",	60.000]
+dic_genoma=["Saccharomyces cerevisiae ( levadura unicelular en ciernes )	": "12 millones"	, 6000", "tricomonas vaginalis": "160 millones",	60000]
+git push origin main
+git config --global user.name “Nombre de usuario”
+git config --global user.email email@mail.com
+git init
+git clone 
+git add -all
+git commit -m "aqui pon un comando"
+git push origin main
